@@ -41,21 +41,22 @@ Before you begin, ensure you have the following installed on your machine:
 1. **Clone the Repository**
 
    git clone https://github.com/Sundar1709/flowchart-manager-backend.git
+   
    cd flowchart-management-backend
 
-2. **Install Dependencies**
+3. **Install Dependencies**
 
    npm install
 
-3. **Running the Server**
+4. **Running the Server**
 
    npm run dev
 
-4. **Running Tests**
+5. **Running Tests**
 
    npm test
 
-5. **Access Swagger UI**
+6. **Access Swagger UI**
 
    http://localhost:3000/api-docs
 
